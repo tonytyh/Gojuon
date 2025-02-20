@@ -1,0 +1,27 @@
+
+
+.gojuon-card {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    size: 'sm';
+    margin: 20px;
+    padding: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.gojuon-card-title {
+    margin: 5px;
+    font-size: 35px;
+    color: #333;
+}
+
+.gojuon-card-body {
+    font-size: 14px;
+    color: #666;
+}
+
+.gojuon-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
