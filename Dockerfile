@@ -12,7 +12,7 @@ RUN npm install
 COPY . .
 
 # Build your Vite React project
-RUN npm run build
+RUN npm run build --production
 
 
 # Stage 2: Serve the built app
