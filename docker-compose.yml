@@ -1,0 +1,7 @@
+services:
+  gojuon-ux:
+    build: .
+    container_name: gojuon-ux
+    ports:
+      - "7654:7654"
+    restart: always
