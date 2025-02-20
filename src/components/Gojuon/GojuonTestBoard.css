@@ -1,0 +1,21 @@
+.center-container {
+    /* Make sure the container takes up the full viewport height 
+       so the box remains centered vertically. */
+    min-height: 100px;
+    /* This background color is similar to Chakra's gray.100 */
+    background-color: #f7fafc;
+  }
+  
+  /* Styles for the inner box */
+  .center-box {
+    width: 600px;
+    height: 400px;
+    margin-top: 20px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Chakra’s "md" border radius is ~0.375rem */
+    border-radius: 1px;
+  }
+  

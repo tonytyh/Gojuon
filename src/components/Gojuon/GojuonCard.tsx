@@ -1,6 +1,6 @@
 
 
-import { GojuonCardModel } from './GojuonModel';
+import { GojuonCardModel } from './GojuonData';
 import { Box, Card, Center } from "@chakra-ui/react"
 import './GojuonCard.css';
 import { useOptionStore, OptionStore } from '../../GlobalContext';

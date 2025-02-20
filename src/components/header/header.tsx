@@ -20,7 +20,7 @@ export const Header = () => {
             <Center>
                 <Heading className="header-title">五十音图</Heading>
                 <Link className="header-navigation" onClick={() => handleClick('gojuon')}>五十音图</Link>
-                <Link className="header-navigation" onClick={() => handleClick('test')}>快速记忆</Link>
+                <Link className="header-navigation" onClick={() => handleClick('test')}>随机测试</Link>
             </Center>
         </Box>
     );
