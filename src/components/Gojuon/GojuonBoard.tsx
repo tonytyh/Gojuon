@@ -1,7 +1,5 @@
 
 
-
-import { addMetric } from '@/metrics/metric';
 import GojuonCard from './GojuonCard';
 import gojuonData from './GojuonData';
 import { GridItem, SimpleGrid, Box } from "@chakra-ui/react"
@@ -20,13 +18,6 @@ export default function GojuonBoard() {
         return false;
     });
     useEffect(() => {
-        addMetric({
-            'page': 'GojuonBoard', action: 'render', displayOptions: {
-                showSeion: showSeion,
-                showDakuon: showDakuon,
-                showYouon: showYouon
-            }
-        });
     }, [showSeion, showDakuon, showYouon]);
     return (
         <>

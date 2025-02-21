@@ -3,7 +3,6 @@ import { FaCheck, FaTimes } from "react-icons/fa";
 import "./Navigation.css";
 import { useOptionStore } from "../../GlobalContext";
 import { useEffect } from "react";
-import { addMetric } from "@/metrics/metric";
 
 const FloatingNav = () => {
     const {
@@ -14,7 +13,6 @@ const FloatingNav = () => {
     } = useOptionStore();
 
     const handleClick = (label: string) => {
-        addMetric({ 'page': 'FloatingNav', action: 'click', label: label });
         if (label === "hira") clickHira();
         else if (label === "kata") clickKata();
         else if (label === "romaji") clickRomaji();
@@ -22,7 +20,6 @@ const FloatingNav = () => {
     };
 
     const handleCategoryClick = (category: string) => {
-        addMetric({ 'page': 'FloatingNav', action: 'click', label: category });
         if (category === "Seion") clickSeion()
         else if (category === "Dakuon") clickDakuon();
         else if (category === "Youon") clickYouon();
@@ -37,7 +34,6 @@ const FloatingNav = () => {
                 showExampleWord: showExampleWord
             }
         }
-        addMetric(payload);
     }, [showHira, showKata, showRomaji, showExampleWord]);
 
     return (
