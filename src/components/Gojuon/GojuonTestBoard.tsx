@@ -4,6 +4,7 @@ import { Heading } from "@chakra-ui/react"
 import gojuonData from "./GojuonData"
 import { useEffect, useState } from "react"
 import GojuonCard from "./GojuonCard"
+import { addMetric } from "../../metrics/metric"
 
 
 
@@ -14,9 +15,11 @@ export const GojuonTestBoard = () => {
     const [randomItem, setRandomItem] = useState(gojuonData[randomIndex]);
     const generateRandomIndex = () => {
         setRandomIndex(Math.floor(Math.random() * gojuonData.length));
+        addMetric({'page':'GojuonTestBoard', action:'generateRandomIndex'});
     }
     useEffect(() => {
         setRandomItem(gojuonData[randomIndex]);
+        addMetric({'page':'GojuonTestBoard', action:'render'});
     }, [randomIndex]);
 
     return (

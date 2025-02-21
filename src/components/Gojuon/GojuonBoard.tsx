@@ -1,12 +1,18 @@
 
 
 
+import { addMetric } from '@/metrics/metric';
 import GojuonCard from './GojuonCard';
 import gojuonData from './GojuonData';
 import { GridItem, SimpleGrid, Box } from "@chakra-ui/react"
+import { useEffect } from 'react';
 
 export default function GojuonBoard() {
 
+
+    useEffect(() => {
+        addMetric({'page':'GojuonBoard', action:'render'});
+    }, []);
     return (
         <>
             <SimpleGrid columns={5} p={2} >
