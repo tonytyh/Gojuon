@@ -10,7 +10,8 @@
     "kata_example_word": "アップル",
     "kata_example_word_pronunciation": "appuru",
     "kata_example_word_meaning_cn": "苹果",
-    "kata_example_word_meaning_en": "apple"
+    "kata_example_word_meaning_en": "apple",
+    "category": "Seion"
   },
   {
     "hira": "い",
@@ -23,7 +24,8 @@
     "kata_example_word": "イタリア",
     "kata_example_word_pronunciation": "itaria",
     "kata_example_word_meaning_cn": "意大利",
-    "kata_example_word_meaning_en": "Italy"
+    "kata_example_word_meaning_en": "Italy",
+    "category": "Seion"
   },
   {
     "hira": "う",
@@ -36,7 +38,8 @@
     "kata_example_word": "ウイスキー",
     "kata_example_word_pronunciation": "uisukii",
     "kata_example_word_meaning_cn": "威士忌",
-    "kata_example_word_meaning_en": "whiskey"
+    "kata_example_word_meaning_en": "whiskey",
+    "category": "Seion"
   },
   {
     "hira": "え",
@@ -49,7 +52,8 @@
     "kata_example_word": "エアコン",
     "kata_example_word_pronunciation": "eakon",
     "kata_example_word_meaning_cn": "空调",
-    "kata_example_word_meaning_en": "air conditioner"
+    "kata_example_word_meaning_en": "air conditioner",
+    "category": "Seion"
   },
   {
     "hira": "お",
@@ -62,7 +66,8 @@
     "kata_example_word": "オレンジ",
     "kata_example_word_pronunciation": "orenji",
     "kata_example_word_meaning_cn": "橙子",
-    "kata_example_word_meaning_en": "orange"
+    "kata_example_word_meaning_en": "orange",
+    "category": "Seion"
   },
   {
     "hira": "か",
@@ -75,7 +80,8 @@
     "kata_example_word": "カメラ",
     "kata_example_word_pronunciation": "kamera",
     "kata_example_word_meaning_cn": "相机",
-    "kata_example_word_meaning_en": "camera"
+    "kata_example_word_meaning_en": "camera",
+    "category": "Seion"
   },
   {
     "hira": "き",
@@ -88,7 +94,8 @@
     "kata_example_word": "キッチン",
     "kata_example_word_pronunciation": "kicchin",
     "kata_example_word_meaning_cn": "厨房",
-    "kata_example_word_meaning_en": "kitchen"
+    "kata_example_word_meaning_en": "kitchen",
+    "category": "Seion"
   },
   {
     "hira": "く",
@@ -101,7 +108,8 @@
     "kata_example_word": "クッキー",
     "kata_example_word_pronunciation": "kukkii",
     "kata_example_word_meaning_cn": "饼干",
-    "kata_example_word_meaning_en": "cookie"
+    "kata_example_word_meaning_en": "cookie",
+    "category": "Seion"
   },
   {
     "hira": "け",
@@ -114,7 +122,8 @@
     "kata_example_word": "ケーキ",
     "kata_example_word_pronunciation": "keeki",
     "kata_example_word_meaning_cn": "蛋糕",
-    "kata_example_word_meaning_en": "cake"
+    "kata_example_word_meaning_en": "cake",
+    "category": "Seion"
   },
   {
     "hira": "こ",
@@ -127,7 +136,8 @@
     "kata_example_word": "コーヒー",
     "kata_example_word_pronunciation": "koohii",
     "kata_example_word_meaning_cn": "咖啡",
-    "kata_example_word_meaning_en": "coffee"
+    "kata_example_word_meaning_en": "coffee",
+    "category": "Seion"
   },
   {
     "hira": "さ",
@@ -140,7 +150,8 @@
     "kata_example_word": "サラダ",
     "kata_example_word_pronunciation": "sarada",
     "kata_example_word_meaning_cn": "沙拉",
-    "kata_example_word_meaning_en": "salad"
+    "kata_example_word_meaning_en": "salad",
+    "category": "Seion"
   },
   {
     "hira": "し",
@@ -153,7 +164,8 @@
     "kata_example_word": "システム",
     "kata_example_word_pronunciation": "shisutemu",
     "kata_example_word_meaning_cn": "系统",
-    "kata_example_word_meaning_en": "system"
+    "kata_example_word_meaning_en": "system",
+    "category": "Seion"
   },
   {
     "hira": "す",
@@ -166,7 +178,8 @@
     "kata_example_word": "スプーン",
     "kata_example_word_pronunciation": "supuun",
     "kata_example_word_meaning_cn": "勺子",
-    "kata_example_word_meaning_en": "spoon"
+    "kata_example_word_meaning_en": "spoon",
+    "category": "Seion"
   },
   {
     "hira": "せ",
@@ -179,7 +192,8 @@
     "kata_example_word": "セット",
     "kata_example_word_pronunciation": "setto",
     "kata_example_word_meaning_cn": "套装/套餐",
-    "kata_example_word_meaning_en": "set"
+    "kata_example_word_meaning_en": "set",
+    "category": "Seion"
   },
   {
     "hira": "そ",
@@ -192,7 +206,8 @@
     "kata_example_word": "ソフト",
     "kata_example_word_pronunciation": "sofuto",
     "kata_example_word_meaning_cn": "软件",
-    "kata_example_word_meaning_en": "software"
+    "kata_example_word_meaning_en": "software",
+    "category": "Seion"
   },
   {
     "hira": "た",
@@ -205,7 +220,8 @@
     "kata_example_word": "タクシー",
     "kata_example_word_pronunciation": "takushii",
     "kata_example_word_meaning_cn": "出租车",
-    "kata_example_word_meaning_en": "taxi"
+    "kata_example_word_meaning_en": "taxi",
+    "category": "Seion"
   },
   {
     "hira": "ち",
@@ -218,7 +234,8 @@
     "kata_example_word": "チーズ",
     "kata_example_word_pronunciation": "chiizu",
     "kata_example_word_meaning_cn": "奶酪",
-    "kata_example_word_meaning_en": "cheese"
+    "kata_example_word_meaning_en": "cheese",
+    "category": "Seion"
   },
   {
     "hira": "つ",
@@ -231,7 +248,8 @@
     "kata_example_word": "ツアー",
     "kata_example_word_pronunciation": "tsuaa",
     "kata_example_word_meaning_cn": "旅行团",
-    "kata_example_word_meaning_en": "tour"
+    "kata_example_word_meaning_en": "tour",
+    "category": "Seion"
   },
   {
     "hira": "て",
@@ -244,7 +262,8 @@
     "kata_example_word": "テーブル",
     "kata_example_word_pronunciation": "teeburu",
     "kata_example_word_meaning_cn": "桌子",
-    "kata_example_word_meaning_en": "table"
+    "kata_example_word_meaning_en": "table",
+    "category": "Seion"
   },
   {
     "hira": "と",
@@ -257,7 +276,8 @@
     "kata_example_word": "トイレ",
     "kata_example_word_pronunciation": "toire",
     "kata_example_word_meaning_cn": "厕所",
-    "kata_example_word_meaning_en": "toilet"
+    "kata_example_word_meaning_en": "toilet",
+    "category": "Seion"
   },
   {
     "hira": "な",
@@ -270,7 +290,8 @@
     "kata_example_word": "ナイフ",
     "kata_example_word_pronunciation": "naifu",
     "kata_example_word_meaning_cn": "刀子",
-    "kata_example_word_meaning_en": "knife"
+    "kata_example_word_meaning_en": "knife",
+    "category": "Seion"
   },
   {
     "hira": "に",
@@ -283,7 +304,8 @@
     "kata_example_word": "ニート",
     "kata_example_word_pronunciation": "niito",
     "kata_example_word_meaning_cn": "啃老族",
-    "kata_example_word_meaning_en": "NEET"
+    "kata_example_word_meaning_en": "NEET",
+    "category": "Seion"
   },
   {
     "hira": "ぬ",
@@ -296,7 +318,8 @@
     "kata_example_word": "ヌガー",
     "kata_example_word_pronunciation": "nugaa",
     "kata_example_word_meaning_cn": "牛轧糖",
-    "kata_example_word_meaning_en": "nougat"
+    "kata_example_word_meaning_en": "nougat",
+    "category": "Seion"
   },
   {
     "hira": "ね",
@@ -309,7 +332,8 @@
     "kata_example_word": "ネクタイ",
     "kata_example_word_pronunciation": "nekutai",
     "kata_example_word_meaning_cn": "领带",
-    "kata_example_word_meaning_en": "necktie"
+    "kata_example_word_meaning_en": "necktie",
+    "category": "Seion"
   },
   {
     "hira": "の",
@@ -322,7 +346,8 @@
     "kata_example_word": "ノート",
     "kata_example_word_pronunciation": "nooto",
     "kata_example_word_meaning_cn": "笔记本",
-    "kata_example_word_meaning_en": "notebook"
+    "kata_example_word_meaning_en": "notebook",
+    "category": "Seion"
   },
   {
     "hira": "は",
@@ -335,7 +360,8 @@
     "kata_example_word": "ハンバーガー",
     "kata_example_word_pronunciation": "hanbaagaa",
     "kata_example_word_meaning_cn": "汉堡",
-    "kata_example_word_meaning_en": "hamburger"
+    "kata_example_word_meaning_en": "hamburger",
+    "category": "Seion"
   },
   {
     "hira": "ひ",
@@ -348,7 +374,8 @@
     "kata_example_word": "ヒーター",
     "kata_example_word_pronunciation": "hiitaa",
     "kata_example_word_meaning_cn": "暖气机",
-    "kata_example_word_meaning_en": "heater"
+    "kata_example_word_meaning_en": "heater",
+    "category": "Seion"
   },
   {
     "hira": "ふ",
@@ -361,7 +388,8 @@
     "kata_example_word": "フルーツ",
     "kata_example_word_pronunciation": "furuutsu",
     "kata_example_word_meaning_cn": "水果",
-    "kata_example_word_meaning_en": "fruits"
+    "kata_example_word_meaning_en": "fruits",
+    "category": "Seion"
   },
   {
     "hira": "へ",
@@ -374,7 +402,8 @@
     "kata_example_word": "ヘア",
     "kata_example_word_pronunciation": "hea",
     "kata_example_word_meaning_cn": "头发",
-    "kata_example_word_meaning_en": "hair"
+    "kata_example_word_meaning_en": "hair",
+    "category": "Seion"
   },
   {
     "hira": "ほ",
@@ -387,7 +416,8 @@
     "kata_example_word": "ホテル",
     "kata_example_word_pronunciation": "hoteru",
     "kata_example_word_meaning_cn": "酒店",
-    "kata_example_word_meaning_en": "hotel"
+    "kata_example_word_meaning_en": "hotel",
+    "category": "Seion"
   },
   {
     "hira": "ま",
@@ -400,7 +430,8 @@
     "kata_example_word": "マスク",
     "kata_example_word_pronunciation": "masuku",
     "kata_example_word_meaning_cn": "口罩",
-    "kata_example_word_meaning_en": "mask"
+    "kata_example_word_meaning_en": "mask",
+    "category": "Seion"
   },
   {
     "hira": "み",
@@ -413,7 +444,8 @@
     "kata_example_word": "ミルク",
     "kata_example_word_pronunciation": "miruku",
     "kata_example_word_meaning_cn": "牛奶",
-    "kata_example_word_meaning_en": "milk"
+    "kata_example_word_meaning_en": "milk",
+    "category": "Seion"
   },
   {
     "hira": "む",
@@ -426,7 +458,8 @@
     "kata_example_word": "ムード",
     "kata_example_word_pronunciation": "muudo",
     "kata_example_word_meaning_cn": "气氛",
-    "kata_example_word_meaning_en": "mood"
+    "kata_example_word_meaning_en": "mood",
+    "category": "Seion"
   },
   {
     "hira": "め",
@@ -439,7 +472,8 @@
     "kata_example_word": "メニュー",
     "kata_example_word_pronunciation": "menyuu",
     "kata_example_word_meaning_cn": "菜单",
-    "kata_example_word_meaning_en": "menu"
+    "kata_example_word_meaning_en": "menu",
+    "category": "Seion"
   },
   {
     "hira": "も",
@@ -452,7 +486,8 @@
     "kata_example_word": "モーター",
     "kata_example_word_pronunciation": "mootaa",
     "kata_example_word_meaning_cn": "马达",
-    "kata_example_word_meaning_en": "motor"
+    "kata_example_word_meaning_en": "motor",
+    "category": "Seion"
   },
   {
     "hira": "や",
@@ -465,7 +500,8 @@
     "kata_example_word": "ヤフー",
     "kata_example_word_pronunciation": "yafuu",
     "kata_example_word_meaning_cn": "雅虎",
-    "kata_example_word_meaning_en": "Yahoo"
+    "kata_example_word_meaning_en": "Yahoo",
+    "category": "Seion"
   },
   {
     "hira": "ゆ",
@@ -478,7 +514,8 @@
     "kata_example_word": "ユニット",
     "kata_example_word_pronunciation": "yunitto",
     "kata_example_word_meaning_cn": "单元/小组",
-    "kata_example_word_meaning_en": "unit"
+    "kata_example_word_meaning_en": "unit",
+    "category": "Seion"
   },
   {
     "hira": "よ",
@@ -491,7 +528,8 @@
     "kata_example_word": "ヨーグルト",
     "kata_example_word_pronunciation": "yooguruto",
     "kata_example_word_meaning_cn": "酸奶",
-    "kata_example_word_meaning_en": "yogurt"
+    "kata_example_word_meaning_en": "yogurt",
+    "category": "Seion"
   },
   {
     "hira": "ら",
@@ -504,7 +542,8 @@
     "kata_example_word": "ライオン",
     "kata_example_word_pronunciation": "raion",
     "kata_example_word_meaning_cn": "狮子",
-    "kata_example_word_meaning_en": "lion"
+    "kata_example_word_meaning_en": "lion",
+    "category": "Seion"
   },
   {
     "hira": "り",
@@ -517,7 +556,8 @@
     "kata_example_word": "リモコン",
     "kata_example_word_pronunciation": "rimokon",
     "kata_example_word_meaning_cn": "遥控器",
-    "kata_example_word_meaning_en": "remote control"
+    "kata_example_word_meaning_en": "remote control",
+    "category": "Seion"
   },
   {
     "hira": "る",
@@ -530,7 +570,8 @@
     "kata_example_word": "ルーム",
     "kata_example_word_pronunciation": "ruumu",
     "kata_example_word_meaning_cn": "房间",
-    "kata_example_word_meaning_en": "room"
+    "kata_example_word_meaning_en": "room",
+    "category": "Seion"
   },
   {
     "hira": "れ",
@@ -543,7 +584,8 @@
     "kata_example_word": "レストラン",
     "kata_example_word_pronunciation": "resutoran",
     "kata_example_word_meaning_cn": "餐厅",
-    "kata_example_word_meaning_en": "restaurant"
+    "kata_example_word_meaning_en": "restaurant",
+    "category": "Seion"
   },
   {
     "hira": "ろ",
@@ -556,7 +598,8 @@
     "kata_example_word": "ロボット",
     "kata_example_word_pronunciation": "robotto",
     "kata_example_word_meaning_cn": "机器人",
-    "kata_example_word_meaning_en": "robot"
+    "kata_example_word_meaning_en": "robot",
+    "category": "Seion"
   },
   {
     "hira": "わ",
@@ -569,7 +612,8 @@
     "kata_example_word": "ワイン",
     "kata_example_word_pronunciation": "wain",
     "kata_example_word_meaning_cn": "葡萄酒",
-    "kata_example_word_meaning_en": "wine"
+    "kata_example_word_meaning_en": "wine",
+    "category": "Seion"
   },
   {
     "hira": "を",
@@ -582,7 +626,8 @@
     "kata_example_word": "ヲタク",
     "kata_example_word_pronunciation": "otaku",
     "kata_example_word_meaning_cn": "宅男/宅女 (俗称)",
-    "kata_example_word_meaning_en": "otaku (slang)"
+    "kata_example_word_meaning_en": "otaku (slang)",
+    "category": "Seion"
   },
   {
     "hira": "ん",
@@ -595,12 +640,9 @@
     "kata_example_word": "コンビニ",
     "kata_example_word_pronunciation": "konbini",
     "kata_example_word_meaning_cn": "便利店",
-    "kata_example_word_meaning_en": "convenience store"
+    "kata_example_word_meaning_en": "convenience store",
+    "category": "Seion"
   },
-
-
-
-
 
 
   {
@@ -614,7 +656,8 @@
     "kata_example_word": "ガム",
     "kata_example_word_pronunciation": "gamu",
     "kata_example_word_meaning_cn": "口香糖",
-    "kata_example_word_meaning_en": "gum"
+    "kata_example_word_meaning_en": "gum",
+    "category": "Dakuon"
   },
   {
     "hira": "ぎ",
@@ -627,7 +670,8 @@
     "kata_example_word": "ギター",
     "kata_example_word_pronunciation": "gitaa",
     "kata_example_word_meaning_cn": "吉他",
-    "kata_example_word_meaning_en": "guitar"
+    "kata_example_word_meaning_en": "guitar",
+    "category": "Dakuon"
   },
   {
     "hira": "ぐ",
@@ -640,7 +684,8 @@
     "kata_example_word": "グラム",
     "kata_example_word_pronunciation": "guramu",
     "kata_example_word_meaning_cn": "克（重量单位）",
-    "kata_example_word_meaning_en": "gram"
+    "kata_example_word_meaning_en": "gram",
+    "category": "Dakuon"
   },
   {
     "hira": "げ",
@@ -653,7 +698,8 @@
     "kata_example_word": "ゲーム",
     "kata_example_word_pronunciation": "geemu",
     "kata_example_word_meaning_cn": "游戏",
-    "kata_example_word_meaning_en": "game"
+    "kata_example_word_meaning_en": "game",
+    "category": "Dakuon"
   },
   {
     "hira": "ご",
@@ -666,7 +712,8 @@
     "kata_example_word": "ゴール",
     "kata_example_word_pronunciation": "gooru",
     "kata_example_word_meaning_cn": "目标/终点",
-    "kata_example_word_meaning_en": "goal"
+    "kata_example_word_meaning_en": "goal",
+    "category": "Dakuon"
   },
   {
     "hira": "ざ",
@@ -679,7 +726,8 @@
     "kata_example_word": "ザラザラ",
     "kata_example_word_pronunciation": "zarazara",
     "kata_example_word_meaning_cn": "粗糙（拟态语）",
-    "kata_example_word_meaning_en": "rough (onomatopoeia)"
+    "kata_example_word_meaning_en": "rough (onomatopoeia)",
+    "category": "Dakuon"
   },
   {
     "hira": "じ",
@@ -692,7 +740,8 @@
     "kata_example_word": "ジャム",
     "kata_example_word_pronunciation": "jamu",
     "kata_example_word_meaning_cn": "果酱",
-    "kata_example_word_meaning_en": "jam"
+    "kata_example_word_meaning_en": "jam",
+    "category": "Dakuon"
   },
   {
     "hira": "ず",
@@ -705,7 +754,8 @@
     "kata_example_word": "ズボン",
     "kata_example_word_pronunciation": "zubon",
     "kata_example_word_meaning_cn": "裤子",
-    "kata_example_word_meaning_en": "trousers"
+    "kata_example_word_meaning_en": "trousers",
+    "category": "Dakuon"
   },
   {
     "hira": "ぜ",
@@ -718,7 +768,8 @@
     "kata_example_word": "ゼリー",
     "kata_example_word_pronunciation": "zerii",
     "kata_example_word_meaning_cn": "果冻",
-    "kata_example_word_meaning_en": "jelly"
+    "kata_example_word_meaning_en": "jelly",
+    "category": "Dakuon"
   },
   {
     "hira": "ぞ",
@@ -731,7 +782,8 @@
     "kata_example_word": "ゾーン",
     "kata_example_word_pronunciation": "zoon",
     "kata_example_word_meaning_cn": "区域/地带",
-    "kata_example_word_meaning_en": "zone"
+    "kata_example_word_meaning_en": "zone",
+    "category": "Dakuon"
   },
   {
     "hira": "だ",
@@ -744,7 +796,8 @@
     "kata_example_word": "ダンス",
     "kata_example_word_pronunciation": "dansu",
     "kata_example_word_meaning_cn": "舞蹈",
-    "kata_example_word_meaning_en": "dance"
+    "kata_example_word_meaning_en": "dance",
+    "category": "Dakuon"
   },
   {
     "hira": "ぢ",
@@ -757,7 +810,8 @@
     "kata_example_word": "ヂーン",
     "kata_example_word_pronunciation": "jiin",
     "kata_example_word_meaning_cn": "（拟声词）心被触动的声音（非常罕见）",
-    "kata_example_word_meaning_en": "onomatopoeia for a touching feeling (very rare)"
+    "kata_example_word_meaning_en": "onomatopoeia for a touching feeling (very rare)",
+    "category": "Dakuon"
   },
   {
     "hira": "づ",
@@ -770,7 +824,8 @@
     "kata_example_word": "ヅカ",
     "kata_example_word_pronunciation": "dzuka",
     "kata_example_word_meaning_cn": "“宝冢”的非正式略称（罕见）",
-    "kata_example_word_meaning_en": "short for 'Takarazuka' (uncommon)"
+    "kata_example_word_meaning_en": "short for 'Takarazuka' (uncommon)",
+    "category": "Dakuon"
   },
   {
     "hira": "で",
@@ -783,7 +838,8 @@
     "kata_example_word": "データ",
     "kata_example_word_pronunciation": "deeta",
     "kata_example_word_meaning_cn": "数据",
-    "kata_example_word_meaning_en": "data"
+    "kata_example_word_meaning_en": "data",
+    "category": "Dakuon"
   },
   {
     "hira": "ど",
@@ -796,7 +852,8 @@
     "kata_example_word": "ドア",
     "kata_example_word_pronunciation": "doa",
     "kata_example_word_meaning_cn": "门",
-    "kata_example_word_meaning_en": "door"
+    "kata_example_word_meaning_en": "door",
+    "category": "Dakuon"
   },
   {
     "hira": "ば",
@@ -809,7 +866,8 @@
     "kata_example_word": "バス",
     "kata_example_word_pronunciation": "basu",
     "kata_example_word_meaning_cn": "公交车",
-    "kata_example_word_meaning_en": "bus"
+    "kata_example_word_meaning_en": "bus",
+    "category": "Dakuon"
   },
   {
     "hira": "び",
@@ -822,7 +880,8 @@
     "kata_example_word": "ビール",
     "kata_example_word_pronunciation": "biiru",
     "kata_example_word_meaning_cn": "啤酒",
-    "kata_example_word_meaning_en": "beer"
+    "kata_example_word_meaning_en": "beer",
+    "category": "Dakuon"
   },
   {
     "hira": "ぶ",
@@ -835,7 +894,8 @@
     "kata_example_word": "ブーツ",
     "kata_example_word_pronunciation": "buutsu",
     "kata_example_word_meaning_cn": "靴子",
-    "kata_example_word_meaning_en": "boots"
+    "kata_example_word_meaning_en": "boots",
+    "category": "Dakuon"
   },
   {
     "hira": "べ",
@@ -848,7 +908,8 @@
     "kata_example_word": "ベッド",
     "kata_example_word_pronunciation": "beddo",
     "kata_example_word_meaning_cn": "床",
-    "kata_example_word_meaning_en": "bed"
+    "kata_example_word_meaning_en": "bed",
+    "category": "Dakuon"
   },
   {
     "hira": "ぼ",
@@ -861,15 +922,9 @@
     "kata_example_word": "ボール",
     "kata_example_word_pronunciation": "booru",
     "kata_example_word_meaning_cn": "球",
-    "kata_example_word_meaning_en": "ball"
+    "kata_example_word_meaning_en": "ball",
+    "category": "Dakuon"
   },
-
-
-
-
-
-
-
 
 
   {
@@ -883,7 +938,8 @@
     "kata_example_word": "パンダ",
     "kata_example_word_pronunciation": "panda",
     "kata_example_word_meaning_cn": "熊猫",
-    "kata_example_word_meaning_en": "panda"
+    "kata_example_word_meaning_en": "panda",
+    "category": "Dakuon"
   },
   {
     "hira": "ぴ",
@@ -896,7 +952,8 @@
     "kata_example_word": "ピザ",
     "kata_example_word_pronunciation": "piza",
     "kata_example_word_meaning_cn": "披萨",
-    "kata_example_word_meaning_en": "pizza"
+    "kata_example_word_meaning_en": "pizza",
+    "category": "Dakuon"
   },
   {
     "hira": "ぷ",
@@ -909,7 +966,8 @@
     "kata_example_word": "プラン",
     "kata_example_word_pronunciation": "puran",
     "kata_example_word_meaning_cn": "计划",
-    "kata_example_word_meaning_en": "plan"
+    "kata_example_word_meaning_en": "plan",
+    "category": "Dakuon"
   },
   {
     "hira": "ぺ",
@@ -922,7 +980,8 @@
     "kata_example_word": "ペン",
     "kata_example_word_pronunciation": "pen",
     "kata_example_word_meaning_cn": "笔",
-    "kata_example_word_meaning_en": "pen"
+    "kata_example_word_meaning_en": "pen",
+    "category": "Dakuon"
   },
   {
     "hira": "ぽ",
@@ -935,15 +994,10 @@
     "kata_example_word": "ポスター",
     "kata_example_word_pronunciation": "posutaa",
     "kata_example_word_meaning_cn": "海报",
-    "kata_example_word_meaning_en": "poster"
+    "kata_example_word_meaning_en": "poster",
+    "category": "Dakuon"
   },
 
-
-
-
-
-  
-  
 
 
 
@@ -958,7 +1012,8 @@
     "kata_example_word": "キャップ",
     "kata_example_word_pronunciation": "kyappu",
     "kata_example_word_meaning_cn": "帽盖（瓶盖/鸭舌帽等）",
-    "kata_example_word_meaning_en": "cap"
+    "kata_example_word_meaning_en": "cap",
+    "category": "Youon"
   },
   {
     "hira": "きゅ",
@@ -971,7 +1026,8 @@
     "kata_example_word": "キューバ",
     "kata_example_word_pronunciation": "kyuuba",
     "kata_example_word_meaning_cn": "古巴",
-    "kata_example_word_meaning_en": "Cuba"
+    "kata_example_word_meaning_en": "Cuba",
+    "category": "Youon"
   },
   {
     "hira": "きょ",
@@ -984,7 +1040,8 @@
     "kata_example_word": "キョロキョロ",
     "kata_example_word_pronunciation": "kyorokyoro",
     "kata_example_word_meaning_cn": "东张西望（拟态）",
-    "kata_example_word_meaning_en": "looking around restlessly (onomatopoeia)"
+    "kata_example_word_meaning_en": "looking around restlessly (onomatopoeia)",
+    "category": "Youon"
   },
   {
     "hira": "ぎゃ",
@@ -997,7 +1054,8 @@
     "kata_example_word": "ギャル",
     "kata_example_word_pronunciation": "gyaru",
     "kata_example_word_meaning_cn": "辣妹（年轻时尚女性）",
-    "kata_example_word_meaning_en": "gyaru"
+    "kata_example_word_meaning_en": "gyaru",
+    "category": "Youon"
   },
   {
     "hira": "ぎゅ",
@@ -1010,7 +1068,8 @@
     "kata_example_word": "ギュッと",
     "kata_example_word_pronunciation": "gyutto",
     "kata_example_word_meaning_cn": "紧紧地（拟态）",
-    "kata_example_word_meaning_en": "tightly (onomatopoeia)"
+    "kata_example_word_meaning_en": "tightly (onomatopoeia)",
+    "category": "Youon"
   },
   {
     "hira": "ぎょ",
@@ -1023,7 +1082,8 @@
     "kata_example_word": "ギョーザ",
     "kata_example_word_pronunciation": "gyooza",
     "kata_example_word_meaning_cn": "饺子",
-    "kata_example_word_meaning_en": "gyoza (dumplings)"
+    "kata_example_word_meaning_en": "gyoza (dumplings)",
+    "category": "Youon"
   },
   {
     "hira": "しゃ",
@@ -1036,7 +1096,8 @@
     "kata_example_word": "シャワー",
     "kata_example_word_pronunciation": "shawaa",
     "kata_example_word_meaning_cn": "淋浴",
-    "kata_example_word_meaning_en": "shower"
+    "kata_example_word_meaning_en": "shower",
+    "category": "Youon"
   },
   {
     "hira": "しゅ",
@@ -1049,7 +1110,8 @@
     "kata_example_word": "シュート",
     "kata_example_word_pronunciation": "shuuto",
     "kata_example_word_meaning_cn": "射门/投篮（体育）",
-    "kata_example_word_meaning_en": "shoot (sports term)"
+    "kata_example_word_meaning_en": "shoot (sports term)",
+    "category": "Youon"
   },
   {
     "hira": "しょ",
@@ -1062,7 +1124,8 @@
     "kata_example_word": "ショッピング",
     "kata_example_word_pronunciation": "shoppingu",
     "kata_example_word_meaning_cn": "购物",
-    "kata_example_word_meaning_en": "shopping"
+    "kata_example_word_meaning_en": "shopping",
+    "category": "Youon"
   },
   {
     "hira": "じゃ",
@@ -1075,7 +1138,8 @@
     "kata_example_word": "ジャケット",
     "kata_example_word_pronunciation": "jaketto",
     "kata_example_word_meaning_cn": "夹克",
-    "kata_example_word_meaning_en": "jacket"
+    "kata_example_word_meaning_en": "jacket",
+    "category": "Youon"
   },
   {
     "hira": "じゅ",
@@ -1088,7 +1152,8 @@
     "kata_example_word": "ジュース",
     "kata_example_word_pronunciation": "juusu",
     "kata_example_word_meaning_cn": "果汁",
-    "kata_example_word_meaning_en": "juice"
+    "kata_example_word_meaning_en": "juice",
+    "category": "Youon"
   },
   {
     "hira": "じょ",
@@ -1101,7 +1166,8 @@
     "kata_example_word": "ジョギング",
     "kata_example_word_pronunciation": "jogingu",
     "kata_example_word_meaning_cn": "慢跑",
-    "kata_example_word_meaning_en": "jogging"
+    "kata_example_word_meaning_en": "jogging",
+    "category": "Youon"
   },
   {
     "hira": "ちゃ",
@@ -1114,7 +1180,8 @@
     "kata_example_word": "チャレンジ",
     "kata_example_word_pronunciation": "charenji",
     "kata_example_word_meaning_cn": "挑战",
-    "kata_example_word_meaning_en": "challenge"
+    "kata_example_word_meaning_en": "challenge",
+    "category": "Youon"
   },
   {
     "hira": "ちゅ",
@@ -1127,7 +1194,8 @@
     "kata_example_word": "チュー",
     "kata_example_word_pronunciation": "chuu",
     "kata_example_word_meaning_cn": "亲吻（拟声）",
-    "kata_example_word_meaning_en": "kiss (onomatopoeia)"
+    "kata_example_word_meaning_en": "kiss (onomatopoeia)",
+    "category": "Youon"
   },
   {
     "hira": "ちょ",
@@ -1140,7 +1208,8 @@
     "kata_example_word": "チョコレート",
     "kata_example_word_pronunciation": "chokoreeto",
     "kata_example_word_meaning_cn": "巧克力",
-    "kata_example_word_meaning_en": "chocolate"
+    "kata_example_word_meaning_en": "chocolate",
+    "category": "Youon"
   },
   {
     "hira": "にゃ",
@@ -1153,7 +1222,8 @@
     "kata_example_word": "ニャニャン",
     "kata_example_word_pronunciation": "nyanyan",
     "kata_example_word_meaning_cn": "猫咪叫声（稀有）",
-    "kata_example_word_meaning_en": "cat-like sound (rare)"
+    "kata_example_word_meaning_en": "cat-like sound (rare)",
+    "category": "Youon"
   },
   {
     "hira": "にゅ",
@@ -1166,7 +1236,8 @@
     "kata_example_word": "ニューヨーク",
     "kata_example_word_pronunciation": "nyuuyooku",
     "kata_example_word_meaning_cn": "纽约",
-    "kata_example_word_meaning_en": "New York"
+    "kata_example_word_meaning_en": "New York",
+    "category": "Youon"
   },
   {
     "hira": "にょ",
@@ -1179,7 +1250,8 @@
     "kata_example_word": "ニョッキ",
     "kata_example_word_pronunciation": "nyokki",
     "kata_example_word_meaning_cn": "意大利土豆面疙瘩（gnocchi）",
-    "kata_example_word_meaning_en": "gnocchi"
+    "kata_example_word_meaning_en": "gnocchi",
+    "category": "Youon"
   },
   {
     "hira": "ひゃ",
@@ -1192,7 +1264,8 @@
     "kata_example_word": "ヒャッハー",
     "kata_example_word_pronunciation": "hyahhaa",
     "kata_example_word_meaning_cn": "狂热的喊声（俚语）",
-    "kata_example_word_meaning_en": "exclamation of excitement (slang)"
+    "kata_example_word_meaning_en": "exclamation of excitement (slang)",
+    "category": "Youon"
   },
   {
     "hira": "ひゅ",
@@ -1205,7 +1278,8 @@
     "kata_example_word": "ヒューストン",
     "kata_example_word_pronunciation": "hyuusuton",
     "kata_example_word_meaning_cn": "休斯顿",
-    "kata_example_word_meaning_en": "Houston"
+    "kata_example_word_meaning_en": "Houston",
+    "category": "Youon"
   },
   {
     "hira": "ひょ",
@@ -1218,7 +1292,8 @@
     "kata_example_word": "ヒョウ柄",
     "kata_example_word_pronunciation": "hyougara",
     "kata_example_word_meaning_cn": "豹纹",
-    "kata_example_word_meaning_en": "leopard print"
+    "kata_example_word_meaning_en": "leopard print",
+    "category": "Youon"
   },
   {
     "hira": "びゃ",
@@ -1231,7 +1306,8 @@
     "kata_example_word": "ビャーッ",
     "kata_example_word_pronunciation": "byaa",
     "kata_example_word_meaning_cn": "快速喷出声（拟声）",
-    "kata_example_word_meaning_en": "sound of spraying (onomatopoeia)"
+    "kata_example_word_meaning_en": "sound of spraying (onomatopoeia)",
+    "category": "Youon"
   },
   {
     "hira": "びゅ",
@@ -1244,7 +1320,8 @@
     "kata_example_word": "ビュー",
     "kata_example_word_pronunciation": "byuu",
     "kata_example_word_meaning_cn": "视图/景观",
-    "kata_example_word_meaning_en": "view"
+    "kata_example_word_meaning_en": "view",
+    "category": "Youon"
   },
   {
     "hira": "びょ",
@@ -1257,7 +1334,8 @@
     "kata_example_word": "ビョーイン",
     "kata_example_word_pronunciation": "byo-in",
     "kata_example_word_meaning_cn": "“医院”的误写片假名",
-    "kata_example_word_meaning_en": "misspelling of 'hospital' (byouin)"
+    "kata_example_word_meaning_en": "misspelling of 'hospital' (byouin)",
+    "category": "Youon"
   },
   {
     "hira": "ぴゃ",
@@ -1270,7 +1348,8 @@
     "kata_example_word": "ピャッと",
     "kata_example_word_pronunciation": "pyatto",
     "kata_example_word_meaning_cn": "迅速地",
-    "kata_example_word_meaning_en": "quickly"
+    "kata_example_word_meaning_en": "quickly",
+    "category": "Youon"
   },
   {
     "hira": "ぴゅ",
@@ -1283,7 +1362,8 @@
     "kata_example_word": "ピュア",
     "kata_example_word_pronunciation": "pyua",
     "kata_example_word_meaning_cn": "纯粹",
-    "kata_example_word_meaning_en": "pure"
+    "kata_example_word_meaning_en": "pure",
+    "category": "Youon"
   },
   {
     "hira": "ぴょ",
@@ -1296,7 +1376,8 @@
     "kata_example_word": "ピョコピョコ",
     "kata_example_word_pronunciation": "pyokopyoko",
     "kata_example_word_meaning_cn": "上下蹦跳的样子",
-    "kata_example_word_meaning_en": "bobbing/jumping repeatedly"
+    "kata_example_word_meaning_en": "bobbing/jumping repeatedly",
+    "category": "Youon"
   },
   {
     "hira": "みゃ",
@@ -1309,7 +1390,8 @@
     "kata_example_word": "ミャオ",
     "kata_example_word_pronunciation": "myao",
     "kata_example_word_meaning_cn": "猫叫声（外来风拟写）",
-    "kata_example_word_meaning_en": "meow (loanword style)"
+    "kata_example_word_meaning_en": "meow (loanword style)",
+    "category": "Youon"
   },
   {
     "hira": "みゅ",
@@ -1322,7 +1404,8 @@
     "kata_example_word": "ミュージック",
     "kata_example_word_pronunciation": "myuujikku",
     "kata_example_word_meaning_cn": "音乐",
-    "kata_example_word_meaning_en": "music"
+    "kata_example_word_meaning_en": "music",
+    "category": "Youon"
   },
   {
     "hira": "みょ",
@@ -1335,7 +1418,8 @@
     "kata_example_word": "ミョウ",
     "kata_example_word_pronunciation": "myou",
     "kata_example_word_meaning_cn": "人名等外来用法",
-    "kata_example_word_meaning_en": "used in certain foreign names"
+    "kata_example_word_meaning_en": "used in certain foreign names",
+    "category": "Youon"
   },
   {
     "hira": "りゃ",
@@ -1348,7 +1432,8 @@
     "kata_example_word": "リャマ",
     "kata_example_word_pronunciation": "ryama",
     "kata_example_word_meaning_cn": "骆马/羊驼科动物",
-    "kata_example_word_meaning_en": "llama"
+    "kata_example_word_meaning_en": "llama",
+    "category": "Youon"
   },
   {
     "hira": "りゅ",
@@ -1361,7 +1446,8 @@
     "kata_example_word": "リュック",
     "kata_example_word_pronunciation": "ryukku",
     "kata_example_word_meaning_cn": "双肩背包",
-    "kata_example_word_meaning_en": "rucksack/backpack"
+    "kata_example_word_meaning_en": "rucksack/backpack",
+    "category": "Youon"
   },
   {
     "hira": "りょ",
@@ -1374,7 +1460,8 @@
     "kata_example_word": "リョウリ",
     "kata_example_word_pronunciation": "ryouri",
     "kata_example_word_meaning_cn": "料理（片假名较少用，多作カタカナ时强调外来风）",
-    "kata_example_word_meaning_en": "cuisine (rarely in katakana, sometimes for emphasis)"
+    "kata_example_word_meaning_en": "cuisine (rarely in katakana, sometimes for emphasis)",
+    "category": "Youon"
   },
   {
     "hira": "ぢゃ",
@@ -1387,7 +1474,8 @@
     "kata_example_word": "ヂャー",
     "kata_example_word_pronunciation": "djaa",
     "kata_example_word_meaning_cn": "拟声词（非常罕见）",
-    "kata_example_word_meaning_en": "onomatopoeia (very rare)"
+    "kata_example_word_meaning_en": "onomatopoeia (very rare)",
+    "category": "Youon"
   },
   {
     "hira": "ぢゅ",
@@ -1400,7 +1488,8 @@
     "kata_example_word": "ヂュッ",
     "kata_example_word_pronunciation": "dju",
     "kata_example_word_meaning_cn": "喷出/挤出声（罕见）",
-    "kata_example_word_meaning_en": "sound of squirting (rare)"
+    "kata_example_word_meaning_en": "sound of squirting (rare)",
+    "category": "Youon"
   },
   {
     "hira": "ぢょ",
@@ -1413,6 +1502,7 @@
     "kata_example_word": "ヂョー",
     "kata_example_word_pronunciation": "djo",
     "kata_example_word_meaning_cn": "拟声/感叹（非常罕见）",
-    "kata_example_word_meaning_en": "possible exclamation/onomatopoeia (very rare)"
+    "kata_example_word_meaning_en": "possible exclamation/onomatopoeia (very rare)",
+    "category": "Youon"
   }
 ]

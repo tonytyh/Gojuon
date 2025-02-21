@@ -41,6 +41,7 @@ export const GojuonTestBoard = () => {
                     kata_example_word_pronunciation={randomItem.kata_example_word_pronunciation}
                     kata_example_word_meaning_cn={randomItem.kata_example_word_meaning_cn}
                     kata_example_word_meaning_en={randomItem.kata_example_word_meaning_en}
+                    category={randomItem.category}
                 />
             </Box>
             <Box>

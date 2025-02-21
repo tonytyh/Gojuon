@@ -14,6 +14,7 @@ export interface GojuonCardModel {
     kata_example_word_pronunciation: string;
     kata_example_word_meaning_cn: string;
     kata_example_word_meaning_en: string;
+    category: 'Seion' | 'Dakuon' | 'Handakuon' | 'Yoon' | 'Sokuon';
 }
 
 const gojuonData: GojuonCardModel[] = [];
@@ -31,7 +32,9 @@ for (let i = 0; i < jsonData.length; i++) {
         kata_example_word: obj.kata_example_word,
         kata_example_word_pronunciation: obj.kata_example_word_pronunciation,
         kata_example_word_meaning_cn: obj.kata_example_word_meaning_cn,
-        kata_example_word_meaning_en: obj.kata_example_word_meaning_en
+        kata_example_word_meaning_en: obj.kata_example_word_meaning_en,
+        category: obj.category as 'Seion' | 'Dakuon' | 'Handakuon' | 'Yoon' | 'Sokuon'
+
     });
 
 }

@@ -32,6 +32,7 @@ export default function GojuonBoard() {
                                 kata_example_word_pronunciation={item.kata_example_word_pronunciation}
                                 kata_example_word_meaning_cn={item.kata_example_word_meaning_cn}
                                 kata_example_word_meaning_en={item.kata_example_word_meaning_en}
+                                category={item.category}
                             />
                         </GridItem>
                     </Box>
