@@ -8,7 +8,9 @@ import { addMetric } from "@/metrics/metric";
 const FloatingNav = () => {
     const {
         showHira, showKata, showRomaji, showExampleWord,
-        clickHira, clickKata, clickRomaji, clickExampleWord
+        showSeion, showDakuon, showYouon: showYoon,
+        clickHira, clickKata, clickRomaji, clickExampleWord,
+        clickSeion, clickDakuon, clickYouon
     } = useOptionStore();
 
     const handleClick = (label: string) => {
@@ -17,6 +19,13 @@ const FloatingNav = () => {
         else if (label === "kata") clickKata();
         else if (label === "romaji") clickRomaji();
         else if (label === "word") clickExampleWord();
+    };
+
+    const handleCategoryClick = (category: string) => {
+        addMetric({ 'page': 'FloatingNav', action: 'click', label: category });
+        if (category === "Seion") clickSeion()
+        else if (category === "Dakuon") clickDakuon();
+        else if (category === "Youon") clickYouon();
     };
 
     useEffect(() => {
@@ -45,6 +54,15 @@ const FloatingNav = () => {
                 </Button>
                 <Button className="navigation-bar-button" onClick={() => handleClick('word')}>
                     单词 {showExampleWord ? <FaCheck /> : <FaTimes />}
+                </Button>
+                <Button className="navigation-bar-button" onClick={() => handleCategoryClick('Seion')}>
+                    清音 {showSeion ? <FaCheck /> : <FaTimes />}
+                </Button>
+                <Button className="navigation-bar-button" onClick={() => handleCategoryClick('Dakuon')}>
+                    浊音 {showDakuon ? <FaCheck /> : <FaTimes />}
+                </Button>
+                <Button className="navigation-bar-button" onClick={() => handleCategoryClick('Youon')}>
+                    拗音 {showYoon ? <FaCheck /> : <FaTimes />}
                 </Button>
             </HStack>
         </Box>

@@ -6,17 +6,32 @@ import GojuonCard from './GojuonCard';
 import gojuonData from './GojuonData';
 import { GridItem, SimpleGrid, Box } from "@chakra-ui/react"
 import { useEffect } from 'react';
+import { useOptionStore } from '@/GlobalContext';
 
 export default function GojuonBoard() {
 
-
+    const {
+        showSeion, showDakuon, showYouon,
+    } = useOptionStore();
+    const filteredData = gojuonData.filter(item => {
+        if (showSeion && item.category === "Seion") return true;
+        if (showDakuon && item.category === "Dakuon") return true;
+        if (showYouon && item.category === "Youon") return true;
+        return false;
+    });
     useEffect(() => {
-        addMetric({'page':'GojuonBoard', action:'render'});
-    }, []);
+        addMetric({
+            'page': 'GojuonBoard', action: 'render', displayOptions: {
+                showSeion: showSeion,
+                showDakuon: showDakuon,
+                showYouon: showYouon
+            }
+        });
+    }, [showSeion, showDakuon, showYouon]);
     return (
         <>
-            <SimpleGrid columns={5} p={2} >
-                {gojuonData.map((item, index) => (
+            <SimpleGrid columns={5} p={1} >
+                {filteredData.map((item, index) => (
                     <Box>
                         <GridItem key={index} p={1} >
                             <GojuonCard
