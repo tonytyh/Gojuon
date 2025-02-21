@@ -2,7 +2,6 @@ import { Box, Button, HStack } from "@chakra-ui/react";
 import { FaCheck, FaTimes } from "react-icons/fa";
 import "./Navigation.css";
 import { useOptionStore } from "../../GlobalContext";
-import { useEffect } from "react";
 
 const FloatingNav = () => {
     const {
@@ -24,17 +23,6 @@ const FloatingNav = () => {
         else if (category === "Dakuon") clickDakuon();
         else if (category === "Youon") clickYouon();
     };
-
-    useEffect(() => {
-        const payload = {
-            'page': 'FloatingNav', action: 'render', displayOptions: {
-                showHira: showHira,
-                showKata: showKata,
-                showRomaji: showRomaji,
-                showExampleWord: showExampleWord
-            }
-        }
-    }, [showHira, showKata, showRomaji, showExampleWord]);
 
     return (
         <Box className="navigation-bar">
